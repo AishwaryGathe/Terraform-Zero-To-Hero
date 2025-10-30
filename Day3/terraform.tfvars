@@ -1,0 +1,1 @@
+bucket_name = "team-alpha-bucket"
