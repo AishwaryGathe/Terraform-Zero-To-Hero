@@ -1,0 +1,9 @@
+variable "allocated_storge" {}
+variable "engine" {}
+variable "engine_version" {}
+variable "instance_class" {}
+variable "username" {}
+variable "passwd" {}
+variable "db_name" {}
+variable "public-accesible" {}
+variable "db_subnet_group_name" {}
