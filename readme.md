@@ -31,3 +31,20 @@ This is designed to be a practical reference, not a theoretical one.
 
 ## 📂 Repository Structure (Generalized)
 
+Terraform-Zero-To-Hero/
+│
+├── basics/
+├── modules/
+├── environments/
+└── advanced/
+
+
+---
+
+## ⚡ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AishwaryGathe/Terraform-Zero-To-Hero.git
+cd Terraform-Zero-To-Hero
