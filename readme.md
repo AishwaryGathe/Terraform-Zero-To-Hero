@@ -76,7 +76,4 @@ To give engineers a straightforward, no-nonsense source to understand Terraform 
 ```
 Pull requests and improvements are welcome.
 If you want something added, create an issue.
-
-
-If you want, I can also generate a *banner image*, *folder tree graphic*, or a *more aesthetic README* with icons and emojis.
 ```
